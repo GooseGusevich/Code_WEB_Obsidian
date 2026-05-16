@@ -1,0 +1,7 @@
+C:\Users\boby\Desktop\PrintSpooferNet\PrintSpooferNet\bin\x64\Release\PrintSpooferNet.exe.config
+C:\Users\boby\Desktop\PrintSpooferNet\PrintSpooferNet\bin\x64\Release\PrintSpooferNet.exe
+C:\Users\boby\Desktop\PrintSpooferNet\PrintSpooferNet\bin\x64\Release\PrintSpooferNet.pdb
+C:\Users\boby\Desktop\PrintSpooferNet\PrintSpooferNet\obj\x64\Release\PrintSpooferNet.csproj.AssemblyReference.cache
+C:\Users\boby\Desktop\PrintSpooferNet\PrintSpooferNet\obj\x64\Release\PrintSpooferNet.csproj.CoreCompileInputs.cache
+C:\Users\boby\Desktop\PrintSpooferNet\PrintSpooferNet\obj\x64\Release\PrintSpooferNet.exe
+C:\Users\boby\Desktop\PrintSpooferNet\PrintSpooferNet\obj\x64\Release\PrintSpooferNet.pdb

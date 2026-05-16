@@ -1,0 +1,7 @@
+C:\Users\boby\Desktop\SpoolSample\SpoolSample\bin\Debug\SpoolSample.exe.config
+C:\Users\boby\Desktop\SpoolSample\SpoolSample\bin\Debug\SpoolSample.exe
+C:\Users\boby\Desktop\SpoolSample\SpoolSample\bin\Debug\SpoolSample.pdb
+C:\Users\boby\Desktop\SpoolSample\SpoolSample\obj\x64\Debug\SpoolSample.csproj.AssemblyReference.cache
+C:\Users\boby\Desktop\SpoolSample\SpoolSample\obj\x64\Debug\SpoolSample.csproj.CoreCompileInputs.cache
+C:\Users\boby\Desktop\SpoolSample\SpoolSample\obj\x64\Debug\SpoolSample.exe
+C:\Users\boby\Desktop\SpoolSample\SpoolSample\obj\x64\Debug\SpoolSample.pdb
