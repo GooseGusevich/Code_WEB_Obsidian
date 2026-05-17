@@ -1,9 +1,0 @@
-D:\NAS\visualstudio\InstallUtil\InstallUtil\bin\x64\Release\InstallUtil.exe.config
-D:\NAS\visualstudio\InstallUtil\InstallUtil\bin\x64\Release\InstallUtil.exe
-D:\NAS\visualstudio\InstallUtil\InstallUtil\bin\x64\Release\InstallUtil.pdb
-D:\NAS\visualstudio\InstallUtil\InstallUtil\bin\x64\Release\System.Management.Automation.dll
-D:\NAS\visualstudio\InstallUtil\InstallUtil\obj\x64\Release\InstallUtil.csproj.AssemblyReference.cache
-D:\NAS\visualstudio\InstallUtil\InstallUtil\obj\x64\Release\InstallUtil.csproj.CoreCompileInputs.cache
-D:\NAS\visualstudio\InstallUtil\InstallUtil\obj\x64\Release\InstallU.200E4BEE.Up2Date
-D:\NAS\visualstudio\InstallUtil\InstallUtil\obj\x64\Release\InstallUtil.exe
-D:\NAS\visualstudio\InstallUtil\InstallUtil\obj\x64\Release\InstallUtil.pdb
