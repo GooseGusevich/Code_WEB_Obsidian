@@ -1,0 +1,9 @@
+D:\NAS\visualstudio\SharpRDP-master\SharpRDP\SharpRDP\bin\x86\Release\SharpRDP.exe.config
+D:\NAS\visualstudio\SharpRDP-master\SharpRDP\SharpRDP\bin\x86\Release\SharpRDP.exe
+D:\NAS\visualstudio\SharpRDP-master\SharpRDP\SharpRDP\bin\x86\Release\AxInterop.MSTSCLib.dll
+D:\NAS\visualstudio\SharpRDP-master\SharpRDP\SharpRDP\obj\x86\Release\SharpRDP.csproj.AssemblyReference.cache
+D:\NAS\visualstudio\SharpRDP-master\SharpRDP\SharpRDP\obj\x86\Release\Interop.MSTSCLib.dll
+D:\NAS\visualstudio\SharpRDP-master\SharpRDP\SharpRDP\obj\x86\Release\SharpRDP.csproj.ResolveComReference.cache
+D:\NAS\visualstudio\SharpRDP-master\SharpRDP\SharpRDP\obj\x86\Release\SharpRDP.csproj.CoreCompileInputs.cache
+D:\NAS\visualstudio\SharpRDP-master\SharpRDP\SharpRDP\obj\x86\Release\SharpRDP.csproj.Up2Date
+D:\NAS\visualstudio\SharpRDP-master\SharpRDP\SharpRDP\obj\x86\Release\SharpRDP.exe
