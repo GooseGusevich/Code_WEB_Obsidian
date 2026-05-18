@@ -1,0 +1,14 @@
+C:\Users\boby\Desktop\PsLessExec\PsLessExec\bin\x64\Release\PsLessExec.exe.config
+C:\Users\boby\Desktop\PsLessExec\PsLessExec\bin\x64\Release\PsLessExec.exe
+C:\Users\boby\Desktop\PsLessExec\PsLessExec\bin\x64\Release\PsLessExec.pdb
+C:\Users\boby\Desktop\PsLessExec\PsLessExec\obj\x64\Release\PsLessExec.csproj.AssemblyReference.cache
+C:\Users\boby\Desktop\PsLessExec\PsLessExec\obj\x64\Release\PsLessExec.csproj.CoreCompileInputs.cache
+C:\Users\boby\Desktop\PsLessExec\PsLessExec\obj\x64\Release\PsLessExec.exe
+C:\Users\boby\Desktop\PsLessExec\PsLessExec\obj\x64\Release\PsLessExec.pdb
+D:\NAS\visualstudio\PsLessExec\PsLessExec\bin\x64\Release\PsLessExec.exe.config
+D:\NAS\visualstudio\PsLessExec\PsLessExec\bin\x64\Release\PsLessExec.exe
+D:\NAS\visualstudio\PsLessExec\PsLessExec\bin\x64\Release\PsLessExec.pdb
+D:\NAS\visualstudio\PsLessExec\PsLessExec\obj\x64\Release\PsLessExec.csproj.AssemblyReference.cache
+D:\NAS\visualstudio\PsLessExec\PsLessExec\obj\x64\Release\PsLessExec.csproj.CoreCompileInputs.cache
+D:\NAS\visualstudio\PsLessExec\PsLessExec\obj\x64\Release\PsLessExec.exe
+D:\NAS\visualstudio\PsLessExec\PsLessExec\obj\x64\Release\PsLessExec.pdb

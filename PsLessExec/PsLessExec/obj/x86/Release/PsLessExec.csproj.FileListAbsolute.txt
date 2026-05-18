@@ -1,0 +1,7 @@
+D:\NAS\visualstudio\PsLessExec\PsLessExec\bin\x86\Release\PsLessExec.exe.config
+D:\NAS\visualstudio\PsLessExec\PsLessExec\bin\x86\Release\PsLessExec.exe
+D:\NAS\visualstudio\PsLessExec\PsLessExec\bin\x86\Release\PsLessExec.pdb
+D:\NAS\visualstudio\PsLessExec\PsLessExec\obj\x86\Release\PsLessExec.csproj.AssemblyReference.cache
+D:\NAS\visualstudio\PsLessExec\PsLessExec\obj\x86\Release\PsLessExec.csproj.CoreCompileInputs.cache
+D:\NAS\visualstudio\PsLessExec\PsLessExec\obj\x86\Release\PsLessExec.exe
+D:\NAS\visualstudio\PsLessExec\PsLessExec\obj\x86\Release\PsLessExec.pdb
